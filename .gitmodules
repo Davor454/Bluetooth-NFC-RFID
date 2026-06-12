@@ -1,0 +1,6 @@
+[submodule "blinky_pwm"]
+	path = blinky_pwm
+	url = https://github.com/Davor454/blinky_pwm
+[submodule "threads"]
+	path = threads
+	url = https://github.com/Davor454/threads
