@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "blinky_pwm"
+		},
+		{
+			"name": "threads",
+			"path": "threads"
+		}
+	],
+	"settings": {}
+}
